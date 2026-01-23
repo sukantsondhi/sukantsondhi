@@ -120,7 +120,7 @@ def generate_board_markdown(board, game_message=""):
 """
     else:
         if not game_message:
-            game_message = "**Your turn!** You are ❌ - Click an empty cell to play!"
+            game_message = "⬆️ **Click a cell, then submit the issue to play!**"
         
         board_md = f"""
 |   |   |   |
@@ -131,7 +131,7 @@ def generate_board_markdown(board, game_message=""):
 
 {game_message}
 
-[🔄 New Game](https://github.com/{REPO_OWNER}/{REPO_NAME}/issues/new?title=tictactoe%7Creset&body=Starting+a+new+game!)
+[🔄 New Game](https://github.com/{REPO_OWNER}/{REPO_NAME}/issues/new?title=tictactoe%7Creset&body=Click+Submit+to+reset!)
 """
     
     return board_md

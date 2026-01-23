@@ -6,7 +6,9 @@ Cloud & AI Specialist with experience building <br><br>📊 Data pipelines<br>�
 
 ## 🎮 Play Tic Tac Toe With Me!
 
-**Challenge Me!** You are ❌, I am ⭕. Click an empty cell to make your move!
+**Challenge Me!** You are ❌, I am ⭕
+
+> **How to play:** Click a cell → Click the green **"Submit new issue"** button → Refresh this page to see the updated board!
 
 <!-- TICTACTOE:START -->
 
@@ -18,7 +20,7 @@ Cloud & AI Specialist with experience building <br><br>📊 Data pipelines<br>�
 
 **Your turn!** You are ❌ - Click an empty cell to play!
 
-[🔄 New Game](https://github.com/sukantsondhi/sukantsondhi/issues/new?title=tictactoe%7Creset&body=Starting+a+new+game!)
+[🔄 New Game](https://github.com/sukantsondhi/sukantsondhi/issues/new?title=tictactoe%7Creset&body=Click+Submit+to+reset!)
 
 <!-- TICTACTOE:END -->
 
