@@ -6,132 +6,27 @@ Cloud & AI Specialist with experience building <br><br>📊 Data pipelines<br>�
 
 ## 🎮 The Debug Dungeon - A Mini Adventure!
 
-**You're a developer trapped in a buggy codebase. Can you escape?** Click to make choices!
+**You're a developer trapped in a buggy codebase. Can you escape?** Click a choice to continue!
 
-<details>
-<summary>🚪 Start Your Adventure</summary>
-
-<br>
-
-You wake up in a dark server room. The hum of machines fills the air. Your terminal glows with an ominous error message:
-
-```
-ERROR: Reality.exe has stopped working
-```
-
-Two paths lie before you...
-
-<details>
-<summary>⬅️ Check the error logs</summary>
-
-<br>
-
-You dive into the logs and find thousands of `NullPointerException` errors. Suddenly, a mass appears - it's the **Null Monster**! 🐛
-
-<details>
-<summary>⚔️ Fight with try-catch blocks</summary>
-
-<br>
-
-```python
-try:
-    defeat(null_monster)
-except Exception as e:
-    print("You dodged the attack!")
-```
-
-**Victory!** The monster dissolves into properly handled exceptions. You find a **Golden Semicolon** ✨
-
-<details>
-<summary>🏆 Continue to the exit...</summary>
-
-<br>
-
-# 🎉 YOU ESCAPED!
-
-You emerge victorious, the legendary developer who debugged the Debug Dungeon!
-
-**Skills gained:** +10 Exception Handling, +5 Patience
-
-*Thanks for playing! Refresh to play again* 🔄
-
-</details>
-</details>
-
-<details>
-<summary>🏃 Run away</summary>
-
-<br>
-
-You try to escape but trip over an **uninitialized variable**!
-
-```
-Segmentation fault (core dumped)
-```
-
-# 💀 GAME OVER
-
-The bugs consumed you. *Refresh to try again!* 🔄
-
-</details>
-</details>
-
-<details>
-<summary>➡️ Follow the blinking cursor</summary>
-
-<br>
-
-The cursor leads you to an ancient terminal. A wise **Rubber Duck** 🦆 appears!
-
-*"Quack! To pass, you must answer my riddle..."*
-
-> **What has keys but no locks, space but no room, and you can enter but can't go inside?**
-
-<details>
-<summary>🤔 "A keyboard!"</summary>
-
-<br>
-
-*"Quack quack! Correct, wise developer!"*
-
-The duck grants you the **Sacred Documentation** 📚 and reveals the exit!
-
-<details>
-<summary>🚀 Escape through the exit</summary>
-
-<br>
-
-# 🎉 YOU ESCAPED!
-
-The Rubber Duck debugging method saves the day again!
-
-**Skills gained:** +10 Problem Solving, +5 Duck Whispering 🦆
-
-*Thanks for playing! Refresh to play again* 🔄
-
-</details>
-</details>
-
-<details>
-<summary>🤷 "A HashMap?"</summary>
-
-<br>
-
-*"QUAAACK! Incorrect!"*
-
-The duck mass-produces `OutOfMemoryError` until the system crashes!
-
-```
-java.lang.OutOfMemoryError: Duck heap space
-```
-
-# 💀 GAME OVER
-
-*Refresh to try again!* 🔄
-
-</details>
-</details>
-</details>
+> <details>
+> <summary>🚪 <b>Start Your Adventure</b></summary>
+> 
+> <br>
+> 
+> You wake up in a dark server room. The hum of machines fills the air. Your terminal glows with an ominous error message:
+> 
+> ```
+> ERROR: Reality.exe has stopped working
+> ```
+> 
+> Two paths lie before you...
+> 
+> | 🎯 Choose Your Path |
+> |:---:|
+> | <details><summary>⬅️ <b>Check the error logs</b></summary><br>You dive into the logs and find thousands of `NullPointerException` errors. Suddenly, a mass appears - it's the **Null Monster**! 🐛<br><br><table><tr><td><details><summary>⚔️ <b>Fight with try-catch blocks</b></summary><br><pre>try:<br>    defeat(null_monster)<br>except Exception as e:<br>    print("You dodged!")</pre><br>**Victory!** The monster dissolves into properly handled exceptions. You find a **Golden Semicolon** ✨<br><br><details><summary>🏆 <b>Continue to the exit...</b></summary><br><h2>🎉 YOU ESCAPED!</h2>You emerge victorious, the legendary developer who debugged the Debug Dungeon!<br><br>**Skills gained:** +10 Exception Handling, +5 Patience<br><br>*Thanks for playing! Refresh to play again* 🔄</details></details></td></tr><tr><td><details><summary>🏃 <b>Run away</b></summary><br>You try to escape but trip over an **uninitialized variable**!<br><pre>Segmentation fault (core dumped)</pre><h2>💀 GAME OVER</h2>The bugs consumed you. *Refresh to try again!* 🔄</details></td></tr></table></details> |
+> | <details><summary>➡️ <b>Follow the blinking cursor</b></summary><br>The cursor leads you to an ancient terminal. A wise **Rubber Duck** 🦆 appears!<br><br>*"Quack! To pass, you must answer my riddle..."*<br><br>> **What has keys but no locks, space but no room, and you can enter but can't go inside?**<br><br><table><tr><td><details><summary>🤔 <b>"A keyboard!"</b></summary><br>*"Quack quack! Correct, wise developer!"*<br><br>The duck grants you the **Sacred Documentation** 📚 and reveals the exit!<br><br><details><summary>🚀 <b>Escape through the exit</b></summary><br><h2>🎉 YOU ESCAPED!</h2>The Rubber Duck debugging method saves the day again!<br><br>**Skills gained:** +10 Problem Solving, +5 Duck Whispering 🦆<br><br>*Thanks for playing! Refresh to play again* 🔄</details></details></td></tr><tr><td><details><summary>🤷 <b>"A HashMap?"</b></summary><br>*"QUAAACK! Incorrect!"*<br><br>The duck mass-produces `OutOfMemoryError` until the system crashes!<br><pre>java.lang.OutOfMemoryError: Duck heap space</pre><h2>💀 GAME OVER</h2>*Refresh to try again!* 🔄</details></td></tr></table></details> |
+> 
+> </details>
 
 ---
 
