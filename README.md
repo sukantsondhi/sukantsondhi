@@ -4,25 +4,134 @@ Cloud & AI Specialist with experience building <br><br>📊 Data pipelines<br>�
 
 ---
 
-## 🎮 Play Tic Tac Toe With Me!
+## 🎮 The Debug Dungeon - A Mini Adventure!
 
-**Challenge Me!** You are ❌, I am ⭕
+**You're a developer trapped in a buggy codebase. Can you escape?** Click to make choices!
 
-> **How to play:** Click a cell → Click the green **"Submit new issue"** button → Refresh this page to see the updated board!
+<details>
+<summary>🚪 Start Your Adventure</summary>
 
-<!-- TICTACTOE:START -->
+<br>
 
-|                                                                                                                  |                                                                                                                  |                                                                                                                  |
-| :--------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------: |
-| [▪️](https://github.com/sukantsondhi/sukantsondhi/issues/new?title=tictactoe%7Cmove%7C0&body=Just+click+submit!) | [▪️](https://github.com/sukantsondhi/sukantsondhi/issues/new?title=tictactoe%7Cmove%7C1&body=Just+click+submit!) | [▪️](https://github.com/sukantsondhi/sukantsondhi/issues/new?title=tictactoe%7Cmove%7C2&body=Just+click+submit!) |
-| [▪️](https://github.com/sukantsondhi/sukantsondhi/issues/new?title=tictactoe%7Cmove%7C3&body=Just+click+submit!) | [▪️](https://github.com/sukantsondhi/sukantsondhi/issues/new?title=tictactoe%7Cmove%7C4&body=Just+click+submit!) | [▪️](https://github.com/sukantsondhi/sukantsondhi/issues/new?title=tictactoe%7Cmove%7C5&body=Just+click+submit!) |
-| [▪️](https://github.com/sukantsondhi/sukantsondhi/issues/new?title=tictactoe%7Cmove%7C6&body=Just+click+submit!) | [▪️](https://github.com/sukantsondhi/sukantsondhi/issues/new?title=tictactoe%7Cmove%7C7&body=Just+click+submit!) | [▪️](https://github.com/sukantsondhi/sukantsondhi/issues/new?title=tictactoe%7Cmove%7C8&body=Just+click+submit!) |
+You wake up in a dark server room. The hum of machines fills the air. Your terminal glows with an ominous error message:
 
-**Your turn!** You are ❌ - Click an empty cell to play!
+```
+ERROR: Reality.exe has stopped working
+```
 
-[🔄 New Game](https://github.com/sukantsondhi/sukantsondhi/issues/new?title=tictactoe%7Creset&body=Click+Submit+to+reset!)
+Two paths lie before you...
 
-<!-- TICTACTOE:END -->
+<details>
+<summary>⬅️ Check the error logs</summary>
+
+<br>
+
+You dive into the logs and find thousands of `NullPointerException` errors. Suddenly, a mass appears - it's the **Null Monster**! 🐛
+
+<details>
+<summary>⚔️ Fight with try-catch blocks</summary>
+
+<br>
+
+```python
+try:
+    defeat(null_monster)
+except Exception as e:
+    print("You dodged the attack!")
+```
+
+**Victory!** The monster dissolves into properly handled exceptions. You find a **Golden Semicolon** ✨
+
+<details>
+<summary>🏆 Continue to the exit...</summary>
+
+<br>
+
+# 🎉 YOU ESCAPED!
+
+You emerge victorious, the legendary developer who debugged the Debug Dungeon!
+
+**Skills gained:** +10 Exception Handling, +5 Patience
+
+*Thanks for playing! Refresh to play again* 🔄
+
+</details>
+</details>
+
+<details>
+<summary>🏃 Run away</summary>
+
+<br>
+
+You try to escape but trip over an **uninitialized variable**!
+
+```
+Segmentation fault (core dumped)
+```
+
+# 💀 GAME OVER
+
+The bugs consumed you. *Refresh to try again!* 🔄
+
+</details>
+</details>
+
+<details>
+<summary>➡️ Follow the blinking cursor</summary>
+
+<br>
+
+The cursor leads you to an ancient terminal. A wise **Rubber Duck** 🦆 appears!
+
+*"Quack! To pass, you must answer my riddle..."*
+
+> **What has keys but no locks, space but no room, and you can enter but can't go inside?**
+
+<details>
+<summary>🤔 "A keyboard!"</summary>
+
+<br>
+
+*"Quack quack! Correct, wise developer!"*
+
+The duck grants you the **Sacred Documentation** 📚 and reveals the exit!
+
+<details>
+<summary>🚀 Escape through the exit</summary>
+
+<br>
+
+# 🎉 YOU ESCAPED!
+
+The Rubber Duck debugging method saves the day again!
+
+**Skills gained:** +10 Problem Solving, +5 Duck Whispering 🦆
+
+*Thanks for playing! Refresh to play again* 🔄
+
+</details>
+</details>
+
+<details>
+<summary>🤷 "A HashMap?"</summary>
+
+<br>
+
+*"QUAAACK! Incorrect!"*
+
+The duck mass-produces `OutOfMemoryError` until the system crashes!
+
+```
+java.lang.OutOfMemoryError: Duck heap space
+```
+
+# 💀 GAME OVER
+
+*Refresh to try again!* 🔄
+
+</details>
+</details>
+</details>
 
 ---
 
